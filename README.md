@@ -9,3 +9,11 @@ Explanation:
 
 - Very nice robotics visualization library
 --------------
+Website: 
+
+- https://diffusion.csail.mit.edu/
+
+Explanation:
+
+- Introduction to Flow Matching and Diffusion Models
+--------------
