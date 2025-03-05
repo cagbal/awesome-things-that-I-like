@@ -1,6 +1,11 @@
 # awesome-things-that-I-like
 
-Website: 
-https://docs.vuer.ai/en/latest/
+--------------
+Website:
+
+- https://docs.vuer.ai/en/latest/
+
 Explanation:
-Very nice robotics visualization library
+
+- Very nice robotics visualization library
+--------------
