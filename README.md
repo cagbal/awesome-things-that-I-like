@@ -17,3 +17,11 @@ Explanation:
 
 - Introduction to Flow Matching and Diffusion Models
 --------------
+Website: 
+
+- https://cline.bot/
+
+Explanation:
+
+- Vscode AI extension like Cursor
+--------------
