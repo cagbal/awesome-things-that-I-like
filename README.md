@@ -25,3 +25,13 @@ Explanation:
 
 - Vscode AI extension like Cursor
 --------------
+Website: 
+
+- [https://cline.bot/](https://github.com/ahujasid/blender-mcp)
+
+Explanation:
+
+- Blender MCP server
+--------------
+
+
