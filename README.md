@@ -27,7 +27,7 @@ Explanation:
 --------------
 Website: 
 
-- [https://cline.bot/](https://github.com/ahujasid/blender-mcp)
+- https://github.com/ahujasid/blender-mcp
 
 Explanation:
 
