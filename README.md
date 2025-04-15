@@ -33,5 +33,21 @@ Explanation:
 
 - Blender MCP server
 --------------
+Website: 
+
+- https://www.coolify.io/
+
+Explanation:
+
+- Coolify: A VPS management system enabling 1-click deployment of many different apps, SSL etc. 
+--------------
+Website: 
+
+- https://n8n.io/
+
+Explanation:
+
+- n8n: Awesome, local Zapier alternative. License is not good tho.
+--------------
 
 
